@@ -45,7 +45,7 @@ ollama pull mistral
 ### 3. Clone & setup
 
 ```bash
-git clone <your-repo>
+git clone https://github.com/saramazal/ghostshell
 cd ghostshell
 npm install
 ```

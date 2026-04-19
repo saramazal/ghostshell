@@ -1,3 +1,4 @@
+* _project_in_progress_
 # 🐉 GhostShell — AI Pentesting Assistant
 
 GhostShell is a local AI-powered penetration testing assistant built with Node.js and Ollama.
